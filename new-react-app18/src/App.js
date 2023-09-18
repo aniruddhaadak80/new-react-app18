@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          new-react-app18 
+          new-react-app18 and 
+          React is Awesome
         </a>
       </header>
     </div>
